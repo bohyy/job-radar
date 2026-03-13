@@ -1,0 +1,12 @@
+name: job-radar
+display_name: 🎯 Job Radar — 每日职位自动推送
+description: 每日自动抓取 Google Jobs 实时职位，定时推送到对话。支持 SerpAPI（免费）和 Caravo（付费）两种数据源，用户自行配置 API Key，可自定义关键词、地区、推送时间。适合求职者、HR、猎头。
+version: 1.0.0
+author: Kael User
+tags: [jobs, career, recruitment, automation, google-jobs]
+triggers:
+  - "帮我设置职位推送"
+  - "Job Radar"
+  - "每天给我推送职位"
+  - "我想订阅岗位"
+  - "帮我搜 .* 职位"
